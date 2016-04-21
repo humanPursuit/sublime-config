@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://sublime.wbond.net/channel.json"
+	],
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter-Edge",
+		"HTML-CSS-JS Prettify",
+		"Jinja2",
+		"jQuery",
+		"JsFormat",
+		"Numix Theme",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeTmpl",
+		"SyncedSideBar",
+		"Theme - Moka",
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
+	]
+}

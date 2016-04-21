@@ -1,0 +1,8 @@
+[{
+    "keys": ["ctrl+alt+v"],
+    "command": "clipboard_manager_choose_and_paste",
+    "context": []
+}, {
+    "keys": ["ctrl+alt+g"],
+    "command": "alignment"
+}]
